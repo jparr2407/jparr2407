@@ -9,7 +9,7 @@
 
 - 📫 Você consegue me achar através do e-mail: **joaopdr.rocha24@gmail.com**
 
-- 📄 Desenvolvimento de diversos projetos acadêmicos e pessoais que envolvem: Manipulação, exploração e execução de consultas complexas utilizando **SQL**, criação de gráficos interativos com informações claras e valiosas para negócios com **Power BI**, realização de análise exploratória, construção de modelos e desenvolvimento de fórmulas com **Excel** e análise de dados e desenvolvimento de scripts utilizando pandas, numpy, matplotlib, scipy e seaborn no **Python**. [https://www.linkedin.com/in/joão-pedro-araujo-rodrigues-da-rocha-1061a9253/](https://www.linkedin.com/in/joão-pedro-araujo-rodrigues-da-rocha-1061a9253/](https://www.linkedin.com/in/joaopdrrocha/)
+- 📄 Desenvolvimento de diversos projetos acadêmicos e pessoais que envolvem: Manipulação, exploração e execução de consultas complexas utilizando **SQL**, criação de gráficos interativos com informações claras e valiosas para negócios com **Power BI**, realização de análise exploratória, construção de modelos e desenvolvimento de fórmulas com **Excel** e análise de dados e desenvolvimento de scripts utilizando pandas, numpy, matplotlib, scipy e seaborn no **Python**. [https://www.linkedin.com/in/joão-pedro-araujo-rodrigues-da-rocha-1061a9253/](https://www.linkedin.com/in/joaopdrrocha/)
 
 - ⚡ Algumas informações adicionais: **Adoro assuntos de ficção e mitologia, adoro sagas como Harry Potter e Percy Jackson. Gosto de filmes e séries que envolvem investigação policial/criminal. Jogo diversos jogos de FPS desde criança, sou apaixonado por esse gênero.**
 
