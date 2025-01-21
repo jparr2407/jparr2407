@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o João Pedro</h1>
-<h3 align="center">Sou um recém formado do Senac, cursei Tecnologia em Banco de Dados, atualmente atuo como Analista de Sistemas Jr. Minha paixão pela tecnologia começou cedo e, desde então, tenho me dedicado a buscar conhecimento e prática constantemente. Tenho participado ativamente de cursos e outras iniciativas de aprendizado, expandindo minha compreensão de temas relacionados à análise de dados e suas aplicações.</h3>
+<h3 align="center">Sou um profissional data-driven com experiência em análise de dados, automação e engenharia de software. Atuo na manipulação de grandes volumes de dados em GCP, desenvolvendo soluções para análise de indicadores, automação e detecção de falhas. Tenho expertise em Python, SQL (MySQL, PostgreSQL, Oracle), Power BI e ETL, contribuindo para decisões estratégicas com BI e Big Data.</h3>
 
 - 🌱 Atualmente estou aprendendo: **Python, Machine Learning, Estatística**
 
@@ -9,7 +9,7 @@
 
 - 📫 Você consegue me achar através do e-mail: **joaopdr.rocha24@gmail.com**
 
-- 📄 Desenvolvimento de diversos projetos acadêmicos e profissionais que envolvem: Manipulação, exploração e execução de consultas complexas utilizando **SQL**, criação de gráficos interativos com informações claras e valiosas para negócios com **Power BI**, realização de análise exploratória, construção de modelos e desenvolvimento de fórmulas com **Excel**, análise de dados e desenvolvimento de scripts utilizando pandas, numpy, matplotlib, scipy e seaborn no **Python** e até algumas aplicações desenvolvidas em **PHP, HTML, CSS e JavaScript**. (https://www.linkedin.com/in/joaopdrrocha/)
+- 📄 Desenvolvimento de diversos projetos profissionais que envolvem: Manipulação, exploração e execução de consultas complexas utilizando **SQL**, criação de gráficos interativos com informações claras e valiosas para negócios com **Power BI**, realização de análise exploratória, construção de modelos e desenvolvimento de fórmulas com **Excel**, análise de dados e desenvolvimento de scripts utilizando pandas, numpy, matplotlib, scipy e seaborn no **Python** e até algumas aplicações desenvolvidas em **PHP, HTML, CSS e JavaScript**. (https://www.linkedin.com/in/joaopdrrocha/)
 
 - ⚡ Algumas informações adicionais: **Adoro assuntos de ficção e mitologia, adoro sagas como Harry Potter e Percy Jackson. Gosto de filmes e séries que envolvem investigação policial/criminal. Jogo diversos jogos de FPS desde criança, sou apaixonado por esse gênero.**
 
