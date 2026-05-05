@@ -1,56 +1,150 @@
-<h1 align="center">Olá 👋, eu sou o João Pedro</h1>
-<h3 align="center">Sou um profissional data-driven com experiência em análise de dados, automação e engenharia de software. Atuo na manipulação de grandes volumes de dados em GCP, desenvolvendo soluções para análise de indicadores, automação e detecção de falhas. Tenho expertise em Python, SQL (MySQL, PostgreSQL, Oracle), Power BI e ETL, contribuindo para decisões estratégicas com BI e Big Data.</h3>
+<div align="center">
 
-- 🌱 Atualmente estou aprendendo: **Python, Machine Learning, Estatística**
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:060c1a,50:0f1a36,100:060c1a&text=João%20Pedro&textBg=false&fontSize=52&fontColor=5599f0&fontAlignY=55&desc=Analista%20de%20Dados%20e%20BI&descSize=16&descAlignY=75&descColor=7a99c0&animation=fadeIn" width="100%"/>
 
-- 👨‍💻 Todos os meus projetos atuais e futuros estão disponíveis em: [https://checkered-browser-064.notion.site/c4d719a25b56424b8e068f83a6bd7dfd](https://checkered-browser-064.notion.site/c4d719a25b56424b8e068f83a6bd7dfd)
+</div>
 
-- 💬 Me pergunte sobre: **SQL, Power BI, Excel e Python**
+---
 
-- 📫 Você consegue me achar através do e-mail: **joaopdr.rocha24@gmail.com**
+<div align="center">
 
-- 📄 Desenvolvimento de diversos projetos profissionais que envolvem: Manipulação, exploração e execução de consultas complexas utilizando **SQL**, criação de gráficos interativos com informações claras e valiosas para negócios com **Power BI**, realização de análise exploratória, construção de modelos e desenvolvimento de fórmulas com **Excel**, análise de dados e desenvolvimento de scripts utilizando pandas, numpy, matplotlib, scipy e seaborn no **Python** e até algumas aplicações desenvolvidas em **PHP, HTML, CSS e JavaScript**. (https://www.linkedin.com/in/joaopdrrocha/)
+![Status](https://img.shields.io/badge/MISSÃO_ATIVA-DATA_EXPLORER-0f1a36?style=for-the-badge&labelColor=060c1a&color=2e7de0&logo=googlechrome&logoColor=5599f0)
+&nbsp;
+![Analysis](https://img.shields.io/badge/DATA_ANALYSIS-ONLINE-0f1a36?style=for-the-badge&labelColor=060c1a&color=12b784&logo=databricks&logoColor=12b784)
+&nbsp;
+![Location](https://img.shields.io/badge/Rio_de_Janeiro-BR-0f1a36?style=for-the-badge&labelColor=060c1a&color=7b68d8&logo=googlemaps&logoColor=7b68d8)
 
-- ⚡ Algumas informações adicionais: **Adoro assuntos de ficção e mitologia, adoro sagas como Harry Potter e Percy Jackson. Gosto de filmes e séries que envolvem investigação policial/criminal. Jogo diversos jogos de FPS desde criança, sou apaixonado por esse gênero.**
+</div>
 
-<h3 align="left">Me encontre em:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/joão-pedro-araujo-rodrigues-da-rocha-1061a9253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joão-pedro-araujo-rodrigues-da-rocha-1061a9253/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/joaopedro.araujo.7547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/joaopedro.araujo.7547" height="30" width="40" /></a>
-<a href="https://instagram.com/@rocha_2047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rocha_2047" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>   
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-</p>
+### `> Quem sou eu`
 
+<div align="center">
 
+```python
+astronaut = {
+    "nome"    : "João Pedro",
+    "handle"  : "@jparr2407",
+    "setor"   : "Data Analysis & BI",
+    "missão"  : "Transformar dados em decisões",
+    "base"    : "Rio de Janeiro, BR 🌎",
+    "status"  : "🟢 Online — pronto para missão",
+}
+```
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jparr2407&show_icons=true&locale=en&layout=compact" alt="jparr2407" /></p>
+**Profissional data-driven** com experiência em análise de dados, automação e engenharia de software.
+Navego grandes volumes de dados em **GCP**, desenvolvendo soluções para análise de indicadores,
+automação e detecção de falhas — contribuindo para decisões estratégicas com **BI** e **Big Data**.
+
+</div>
+
+---
+
+## `> Sistemas de Navegação`
+
+<div align="center">
+
+**Linguagens**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br/>
+
+**Bancos de Dados · Planetas**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+<br/>
+
+**Ferramentas & Plataformas**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+</div>
+
+---
+
+## `> Órbita de Aprendizado`
+
+<div align="center">
+
+> *"A jornada pelo cosmos dos dados nunca termina."*
+
+![Python Avançado](https://img.shields.io/badge/🐍_Python_Avançado-Em_Órbita-7b68d8?style=flat-square&labelColor=1e1a40)
+&nbsp;
+![Machine Learning](https://img.shields.io/badge/🤖_Machine_Learning-Em_Órbita-7b68d8?style=flat-square&labelColor=1e1a40)
+&nbsp;
+![Estatística](https://img.shields.io/badge/📊_Estatística-Em_Órbita-7b68d8?style=flat-square&labelColor=1e1a40)
+
+</div>
+
+---
+
+## `> Telemetria de Missão`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jparr2407&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jparr2407&theme=tokyonight" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jparr2407&theme=tokyonight" height="160"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=jparr2407&theme=tokyonight&background=060c1a&ring=2e7de0&fire=12b784&currStreakLabel=5599f0&sideLabels=7a99c0&currStreakNum=5599f0&sideNums=7a99c0&dates=3a5470&border=1a3d6e" height="160"/>
+
+</div>
+
+---
+
+## `> Diário de bordo`
+
+<div align="center">
+
+![FPS](https://img.shields.io/badge/⚡_Jogos-FPS_desde_criança-CC2927?style=flat-square&labelColor=1a0505)
+&nbsp;
+![Livros](https://img.shields.io/badge/📚_Leituras-Harry_Potter_&_Percy_Jackson-7b68d8?style=flat-square&labelColor=1e1a40)
+&nbsp;
+![Séries](https://img.shields.io/badge/🔍_Séries-Investigação_Criminal-2e7de0?style=flat-square&labelColor=0a1226)
+&nbsp;
+![Ficção](https://img.shields.io/badge/🌌_Universo-Ficção_&_Mitologia-12b784?style=flat-square&labelColor=051a10)
+
+</div>
+
+---
+
+## `> Estação de Comunicação`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaopdrrocha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopdrrocha/)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-@rocha__2047-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rocha_2047)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-joaopdr%2Erocha24%40gmail%2Ecom-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopdr.rocha24@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-Projetos-000000?style=for-the-badge&logo=notion&logoColor=white)](https://checkered-browser-064.notion.site/c4d719a25b56424b8e068f83a6bd7dfd)
+&nbsp;
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:060c1a,50:0f1a36,100:060c1a&section=footer&text=LAT%20-22.90%20·%20LON%20-43.17%20·%20ALT%20400km%20·%20SISTEMA%20OPERACIONAL&fontSize=11&fontColor=3a5470&fontAlignY=65" width="100%"/>
+
+</div>
