@@ -33,9 +33,7 @@ astronaut = {
 }
 ```
 
-**Profissional data-driven** com experiência em análise de dados, automação e engenharia de software.
-Navego grandes volumes de dados em **GCP**, desenvolvendo soluções para análise de indicadores,
-automação e detecção de falhas — contribuindo para decisões estratégicas com **BI** e **Big Data**.
+Sou um **Analista de Dados** com mais de 2 anos de experiência em grandes empresas, atuando com análise, modelagem, visualização e automação de processos. Trabalho diariamente com **Python**, **SQL** (MySQL, PostgreSQL e Oracle), **Power BI** e ferramentas de **ETL** para transformar dados para o negócio.
 
 </div>
 
