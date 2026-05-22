@@ -131,7 +131,7 @@ Sou um **Analista de Dados** com mais de 2 anos de experiência em grandes empre
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joaopdrrocha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopdrrocha/)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-@rocha__2047-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rocha_2047)
+[![Instagram](https://img.shields.io/badge/Instagram-@rocha__2407-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rocha_2407)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-joaopdr%2Erocha24%40gmail%2Ecom-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopdr.rocha24@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion-Projetos-000000?style=for-the-badge&logo=notion&logoColor=white)](https://checkered-browser-064.notion.site/c4d719a25b56424b8e068f83a6bd7dfd)
